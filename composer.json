@@ -3,6 +3,7 @@
   "description": "utilities for handling and transforming file paths",
   "license": "BSD-3-Clause",
   "version": "0.1.0",
+  "homepage": "https://github.com/networkninja/schinazi_php-path",
   "authors": [
     {
       "name": "duchess",
